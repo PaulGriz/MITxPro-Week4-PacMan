@@ -5,7 +5,7 @@ Write a function to allow PacMan to reverse his trajectory once the PacMan image
 
 ### How to Run:
 
-**Recomended way**:
+**Recommended way**:
 
 1. Download [VS Code](https://code.visualstudio.com/download)
 2. Add the [Live Server Plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
